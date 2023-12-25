@@ -1,2 +1,1 @@
-# BioGenomeAnalyzer
-A bioinformatics tool for analyzing and interpreting genomic data.
+# BioGenomeAnalyzer\n\nBioGenomeAnalyzer is a powerful bioinformatics tool designed for the analysis and interpretation of genomic data. Whether you're studying genetics, conducting research, or exploring your own DNA, this tool provides essential features for in-depth genomic analysis.\n\n## Features\n- Variant calling and annotation\n- Comparative genomics and phylogenetic analysis\n- User-friendly interface for seamless exploration\n\n## Installation\nBegin your journey into genomic analysis by following these installation steps...
